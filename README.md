@@ -6,7 +6,7 @@ This web app is a ten question quiz on Javascript topics, for each wrong answer,
 
 ## Usage
 
-To use this web app, simply go to the Github pages [link]() and click start or view leaderboard if you'd like to scope out the competition first. If you run out of time, you get a score of zero, if you answer incorrectly and the time deduction reduces the time to zero, you get a score of zero. 
+To use this web app, simply go to the Github pages [link](https://chewy441014.github.io/Code-Quiz/) and click start or view leaderboard if you'd like to scope out the competition first. If you run out of time, you get a score of zero, if you answer incorrectly and the time deduction reduces the time to zero, you get a score of zero. 
 
 You cannot view the leaderboard while taking the quiz. The quiz is already hard, no need to add distractions! The quiz looks like this: 
 
